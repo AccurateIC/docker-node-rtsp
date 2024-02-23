@@ -1,5 +1,3 @@
-# docker-node-rtsp
-
 node-rtsp-stream
 ================
 
@@ -45,4 +43,3 @@ On client:
 For more information on how to use jsmpeg to stream video, visit https://github.com/phoboslab/jsmpeg
 
 Please note that framerate from cameras must be greater than or equal to 15fps for mpeg1 encoding, otherwise ffmpeg errors will prevent video encoding to occur. If you have a camera with advanced configuration options, make sure it streams video at a recommended 25fps.
-
