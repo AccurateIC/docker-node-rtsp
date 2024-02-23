@@ -1,5 +1,5 @@
 {
-  "name": "node-rtsp-stream",
+  "name": "docker-node-rtsp",
   "version": "0.0.8",
   "description": "",
   "main": "index.js",
